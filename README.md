@@ -86,5 +86,3 @@ For any queries, please reach out via email: vrishinreddy007@gmail.com
 
 
 - Data provided by San Francisco International Airport (SFO)
-```
-
