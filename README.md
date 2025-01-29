@@ -87,4 +87,3 @@ For any queries, please reach out via email: vrishinreddy007@gmail.com
 - Data provided by San Francisco International Airport (SFO)
 ```
 
-This README template is comprehensive, highlighting the project's purpose, methodology, usage, and setup instructions, which are critical components for any GitHub project repository. Adjust the links and the repository details as per your actual GitHub project settings."# Air_Traffic_Analysis" 
