@@ -1,4 +1,4 @@
-```markdown
+
 # Navigating Through Time: Passenger Traffic Analysis at SFO
 
 This project presents an in-depth analysis of passenger traffic dynamics at San Francisco International Airport (SFO) from January 2005 to December 2022. Utilizing sophisticated statistical techniques, the study explores seasonal dynamics, market share changes among airlines, and the impact of global events such as the COVID-19 pandemic on air travel.
@@ -38,6 +38,7 @@ The dataset includes monthly passenger traffic data at SFO, categorized by airli
 - **Matplotlib & Seaborn:** For static data visualization.
 - **Plotly:** For interactive visualizations.
 - **Jupyter Notebook:** For organizing the analysis workflow and sharing results.
+
 
 ## Installation
 
